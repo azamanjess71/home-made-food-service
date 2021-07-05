@@ -49,3 +49,28 @@ h2{
     margin-left:25%;
     text-align: center;
 }
+.food-item{
+    margin: 20px 2.5%;
+}
+.one-third-div{
+    width:31%;
+    padding: 10px 5px;
+    margin: 30px 2%;
+    border-radius: 15px;
+}
+.box-shadow-div{
+    box-shadow: 5px 5px 20px gray;
+}
+.one-third-div img{
+    width:92%;
+    height: 150px;
+    border-radius: 15px;
+    margin: 0 4%;
+}
+h3{
+    text-align: center;
+}
+
+h4{
+    text-align: center;
+}
